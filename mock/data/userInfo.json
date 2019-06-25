@@ -1,0 +1,13 @@
+{
+  "data": {
+    "data": {
+      "name": "瓜皮玩家"
+    },
+    "code":200,
+    "msg":"成功了"
+  },
+  "method": "get",
+  "headers": {
+    "test": "hdj"
+  }
+}
